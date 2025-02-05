@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# ------------------------------------------------------------
+# Demo of the example inputs provided in the pub/assignments/la1-1/hw pdf file.
+# ------------------------------------------------------------
+
+set -x
+
+guile super-duper-main.scm
